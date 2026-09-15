@@ -58,6 +58,7 @@ A curated list of Claude agent skills — from official Anthropic sources and fi
 ## Frontend, Mobile & Design
 
 - **[Angular](https://github.com/angular/skills)** — Skills for scaffolding new apps and general Angular development guidance. Examples: `angular-developer`, `angular-new-app`. _(Source: angular/skills, official)_
+- **[Draw.io Skill](https://github.com/Agents365-ai/drawio-skill)** — A single skill for generating and maintaining editable draw.io diagrams from natural language or from code/IaC/schema sources (Terraform, Kubernetes, SQL, OpenAPI, Protobuf, GraphQL), with incremental sync against manual edits, multi-view exports, and CI-based architecture testing. _(Source: Agents365-ai/drawio-skill, 9.3k★)_
 - **[Expo](https://github.com/expo/skills)** — Skills for building, deploying, and debugging Expo apps. Examples: `expo-native-ui`, `eas-workflows`, `expo-router`. _(Source: expo/skills, official)_
 - **[Figma](https://github.com/figma/mcp-server-guide)** — Skills from Figma's MCP server guide for design-to-code workflows. Examples: `figma-code-connect`, `figma-design-to-code`, `figma-generate-design`. _(Source: figma/mcp-server-guide, official)_
 - **[Flutter](https://github.com/flutter/agent-plugins)** — Skills covering layouts, testing, routing, and platform setup for Dart/Flutter apps. Examples: `flutter-apply-architecture-best-practices`, `flutter-build-responsive-layout`, `flutter-add-widget-test`. _(Source: flutter/agent-plugins, official)_
