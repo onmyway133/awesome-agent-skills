@@ -92,6 +92,7 @@ A curated list of Claude agent skills — from official Anthropic sources and fi
 
 - **[Binance](https://github.com/binance/binance-skills-hub)** — Web3 and trading skills for crypto market data, on-chain analytics, and token security auditing. Examples: `crypto-market-rank`, `query-token-audit`, `query-address-info`. _(Source: binance/binance-skills-hub, official)_
 - **[Coinbase](https://github.com/coinbase/agentic-wallet-skills)** — A single skill for operating a crypto wallet via the `awal` CLI — sign-in, balance checks, USDC/ETH/SOL transfers, token swaps, and x402 paid-API workflows. _(Source: coinbase/agentic-wallet-skills, official)_
+- **[RevenueCat](https://github.com/RevenueCat/ai-toolkit)** — Skills for configuring RevenueCat projects, products, entitlements, and offerings, plus paywall, purchase-flow, and subscription-management integration across iOS, Android, Kotlin Multiplatform, Flutter, and React Native. Examples: `integrate-revenuecat`, `revenuecat-paywall`, `revenuecat-purchase-flow`, `create-revenuecat-project`. _(Source: RevenueCat/ai-toolkit, official)_
 - **[Stripe](https://github.com/stripe/ai)** — Skills for using the Stripe API and SDKs correctly, plus safe version upgrades. Examples: `stripe-best-practices`, `upgrade-stripe`, `stripe-apps`. _(Source: stripe/ai, official)_
 
 ## Search & Web Data
